@@ -1,0 +1,199 @@
+*{outline: 1px dotted yellow;
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(56, 53, 53);
+    
+}
+#fondo{
+    background-color: rgba(168, 107, 105, 0.945);
+    width: 870px;
+    height: auto;
+    display: inline-block;
+       
+}
+.encabezado{
+       display: inline-block;  
+       width: 900; 
+       height: 50px; 
+}
+h4{
+    margin: 2px;
+    width: 110px;
+    height: 20px;
+    font-size: medium;
+    color: white;
+    display:inline-flexbox;
+    
+}
+.encabezado h1{
+    margin: 5px;
+    font-size: large;
+        width: 400px;
+        height: 30px;
+        display: inline-block        
+}
+.encabezado h2{
+  margin: 5px; 
+    font-size: medium;
+display: inline-block;
+    width: 400px;
+    height: 30px;
+
+
+}
+
+#top{
+    width: 870px;
+    height: 220px;
+    display: flex;
+}
+#me{
+    width: 320px;
+    height: 190px;
+    display: inline-block;
+    margin: 5px;
+}
+.top-left {
+
+background-color: white;
+width: 330px;
+height: 200px;
+display: inline-block;
+margin-top: 0px;
+margin-left: 30px;
+margin-right: 15px;
+margin-bottom: 15px;
+vertical-align: top;
+}
+.top-right {
+    background-color: white;
+    width: 450px;
+    height: 200px;
+    display: inline-block;
+    margin-top: 0px;
+    margin-left: 15px;
+    margin-right: 30px;
+    margin-bottom: 15px;
+    vertical-align: top;
+
+}
+.top-right h2{
+    font-size: medium;
+    margin-top: 0px;
+    display: inline-block;
+    background-image: radial-gradient(rgb(73, 71, 71),rgb(235, 229, 229));
+display: block;
+color: white;
+
+}
+
+.top-right h3{
+    color: black;
+    font-size:smaller;
+    margin-left: 10px;
+    margin-top: 10px;
+    display: inline-block;
+    display: block;
+   
+
+}
+#bottom{
+
+    width: 870px;
+    height: 645px;
+    display: flex;
+
+}
+
+.logos{
+
+    width: 42px;
+    height: 42px;
+    margin: 1px;
+    display: inline-block;
+}
+
+#lamode{
+    width: 220px;
+    height: 120px;
+    display:inline-block;
+    margin: 10px;
+}
+#family{
+    width: 220px;
+    height: 120px;
+    display: inline-block;
+    margin: 10px;
+    
+
+    }
+#five{ 
+    width: 220px;
+    height: 120px;
+    display: inline-block;
+    margin: 10px;
+
+        }
+
+
+.bottom-left{
+
+    background-color: white;
+    width: 260px;
+    height: 600px;
+    display: inline-block;
+    margin-top: 15px;
+    margin-left: 30px;
+    margin-right: 15px;
+    margin-bottom: 30px;
+    vertical-align: top;
+
+}
+.bottom-left h2{
+    font-size: medium;color: white;
+    margin-top: 0px;
+    display: inline-block;
+    background-image: radial-gradient(rgb(73, 71, 71),rgb(235, 229, 229));
+    display: block;
+}
+.bottom-center{
+    background-color: white;
+    width: 260px;
+    height: 600px;
+    display: inline-block;
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-bottom: 30px;  
+    vertical-align: top;
+
+    }
+
+.bottom-center h2{
+    font-size: medium; color: white;
+    margin-top: 0px;
+    display: inline-block;
+    background-image: radial-gradient(rgb(73, 71, 71),rgb(235, 229, 229));
+    display: block;
+    
+    }
+.bottom-right{
+    background-color: white;
+    width: 260px;
+    height: 600px;
+    display: inline-block;
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-right: 30px;
+    margin-bottom: 30px;
+    vertical-align: top;
+    }
+.bottom-right h2{
+    font-size: medium;
+    margin-top: 0px;
+    display: inline-block;
+    background-image: radial-gradient(rgb(73, 71, 71),rgb(235, 229, 229));
+    display: block;
+    color: white;
+    }
+
+
