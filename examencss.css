@@ -1,0 +1,205 @@
+*{outline: 0px dotted yellow;
+    font-style: italic;  
+    color:white;
+    
+}
+#fondo{
+    background-color: black;
+    width: 970px;
+    height: 1050px;
+    display: inline-block;       
+}
+.top{
+       width: 970px; 
+       height: 150px;    
+       background-color:black ;
+       display:flex;
+       flex-wrap: wrap;
+    }
+#logo {
+    width: 200px;
+    height: 75px;
+    margin: 10px;
+    display: inline-block;  
+    vertical-align: top;
+}
+    
+.top h1{
+   
+    width: 200px;
+    height:30px;
+    font-size: small;
+    color: white;
+    display:inline-block;
+    margin-top: 30px;
+    margin-left: 500px;
+}
+#franja ul li{
+  width: 90px;
+  height: 30px;  
+  display: inline-block;
+}
+
+#franja {
+    font-size:smaller;
+    background-image:radial-gradient(black,gray) ;
+    width: 958px;
+    height: 40px;
+    margin: 10px;
+    display: inline-block;
+}
+#alto {
+   margin: 9px;
+   margin-top: 0px;
+    width: 950px;
+    height:350px;
+    display: inline-block;
+}
+#chica{
+    width: 950px;
+    height:350px ;
+    display: inline-block;
+}
+
+
+#contmedio{
+    width: 960px;
+    height: 100px;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    display:flex;
+    flex-wrap: wrap;
+}
+
+.medio {
+    background-color:black;
+    width: 220px;
+    height: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 0px;
+    margin-left: 5px;
+    margin-right: 2.5px;
+    margin-bottom: 0px;
+    vertical-align: top;
+}
+
+#symbol{
+    width: 40px;
+    height: 40px;
+    margin: 1px;
+    display: inline-block;
+}
+
+.medio h4 {   
+    width: 150px;  
+    height: 20px;  
+    color: orange ;  
+    margin-top: 0px;
+    margin-left: 15px;
+}
+.medio h6{   
+    width: 150px;
+    height: 16px;
+    color: white ;  
+    margin-top: -50px; 
+    margin-left: 57px;
+}
+#secmedio {
+    width: 950px;
+    height: 100px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 0px;
+    background-color: black;
+    display: flex;
+    flex-wrap: wrap;
+    vertical-align: top;
+}
+
+#secmedio h2 {   
+    width: 700px;  
+    height: 30px;  
+    color: white ;  
+    margin-top: 0px;
+    margin-left: 10px;
+}
+#secmedio h4{   
+    width: 700px;
+    height: 50px;
+    color: white ;  
+    margin-top: 0px; 
+    margin-left: 10px;
+}
+#boton{
+margin-left: 750px;
+margin-top: -100px;
+width: 150px;
+height:50px;
+background-color: orange; 
+color: white;
+text-align: center;
+border-radius: 15px;                 
+}
+
+#blockbajo {
+    width: 940px;
+    height: 300px;
+    margin-top: 0px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 0px;
+    display:flex;
+    flex-wrap: wrap;
+}
+
+.secbajo {
+    background-color:black;
+    width: 220px;
+    height: 290px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 0px;
+    margin-left: 5px;
+    margin-right: 2.5px;
+    margin-bottom: 0px;
+    vertical-align: top;
+}
+
+#fotos{
+    width: 200px;
+    height: 100px;
+    margin: 1px;
+    display: inline-block;
+}
+
+.secbajo h2 {   
+    width: 200px;  
+    height: 30px;  
+    color:white ;  
+    margin-top: 0px;
+    margin-left: 15px;
+}
+.secbajo h3{   
+    width: 200px;
+    height: 24px;
+    color: orange ;  
+    margin-top: 0px; 
+    margin-left: 0px;
+}
+.secbajo h5{   
+    width: 200 px;
+    height: 20px;
+    color: white ;  
+    margin-top: 0px; 
+    margin-left:0px;
+}
+.secbajo h4{   
+    width: 200 px;
+    height: 30px;
+    color: orange ;  
+    margin-top: 0px; 
+    margin-left:0px;
+}
