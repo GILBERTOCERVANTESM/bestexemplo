@@ -1,0 +1,40 @@
+$("#img1").click(function(){
+    $("#img1").hide();
+});
+$("#img2").click(function(){
+    $("#img2").hide();
+});
+$("#img2").click(function(){
+    $("#img2").hide();
+});
+$("#img3").click(function(){
+    $("#img3").hide();
+});
+$("#img4").click(function(){
+    $("#img4").hide();
+});
+$("#img5").click(function(){
+    $("#img5").hide();
+});
+$("#img6").click(function(){
+    $("#img6").hide();
+});
+$("#img7").click(function(){
+    $("#img7").hide();
+});
+$("#img8").click(function(){
+    $("#img8").hide();
+});
+
+$(function() {
+    $("#brestore").on("click", function(){
+        $("#img1").show();
+        $("#img2").show();
+        $("#img3").show();
+        $("#img4").show();
+        $("#img5").show();
+        $("#img6").show();
+        $("#img7").show();
+        $("#img8").show();
+    });
+});
